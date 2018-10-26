@@ -1,0 +1,6 @@
+
+Tick: ERCTNT,
+Name:  Brand New Token,
+Decimals:  18,
+Total Supply:  1000000,
+Ropsten Network Transaction Hash: 0xfb3d7eb1b0b9ed813c9601b4ac0902f58d07fa79a036711fdd4177a78044d189
